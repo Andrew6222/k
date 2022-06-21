@@ -1019,9 +1019,6 @@ margin-top: 0;
     grid-area: island;
 }
 
-.calculate-radio-list {
-
-}
 .calculate-text {
     margin-left: 10px;
 }
@@ -1123,9 +1120,7 @@ margin-top: 0;
     margin: 15px 0;
     text-align: center;
 }
-.accordion-item-input:checked ~ .accordion-item-trigger {
 
-}
 .accordion-item-input:checked ~ .accordion-item-content {
     display: block;
     background-color: #fff;
